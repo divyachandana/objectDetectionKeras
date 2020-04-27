@@ -1,0 +1,27 @@
+<annotation verified="yes">
+  <folder>OneDrive_1_4-17-2020</folder>
+  <filename>qYoEY4feE6SkLBWQ3Pd2cA_-75.754397_45.287826_0_325.30</filename>
+  <path>/Users/divyachandana/Documents/NJIT/work/OneDrive_1_4-17-2020/qYoEY4feE6SkLBWQ3Pd2cA_-75.754397_45.287826_0_325.30.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1024</width>
+    <height>768</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <type>bndbox</type>
+    <name>trunk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>551</xmin>
+      <ymin>277</ymin>
+      <xmax>646</xmax>
+      <ymax>533</ymax>
+    </bndbox>
+  </object>
+</annotation>
