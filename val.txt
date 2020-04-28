@@ -1,0 +1,23 @@
+/content/objectDetectionKeras/data/VOC/JPEGImages/aSrtHUeX-Wa4U4vXyD4yVQ_-75.732872_45.287588_0_214.56.jpg 266,363,291,461,0 723,401,741,449,0
+/content/objectDetectionKeras/data/VOC/JPEGImages/Qz0EfUW6ubTLrwfvvjCw7w_-75.727816_45.361013_0_305.47.jpg 197,194,289,483,0
+/content/objectDetectionKeras/data/VOC/JPEGImages/qhUZETDmxhSpXBJ5pjVUYQ_-75.748124_45.289653_0_59.66.jpg 392,300,454,494,0 786,369,825,485,0
+/content/objectDetectionKeras/data/VOC/JPEGImages/2a-9hl8pQOaUfhZZ-4yitw_-75.734557_45.286405_0_239.81.jpg 226,368,252,464,0
+/content/objectDetectionKeras/data/VOC/JPEGImages/Zyh_wqLkxGpbxcj_miBpNg_-75.726945_45.359355_0_147.82.jpg 842,234,890,486,0
+/content/objectDetectionKeras/data/VOC/JPEGImages/Ee3yiprziXZbb6Fcw9huFQ_-75.728259_45.359648_0_327.83.jpg 510,364,557,499,0
+/content/objectDetectionKeras/data/VOC/JPEGImages/6FlP8szYOJWxWz-ZQ_Jt9A_-75.76337_45.284667_0_327.55.jpg 26,402,46,509,0
+/content/objectDetectionKeras/data/VOC/JPEGImages/cRsi3y3-3nANKXgeR90VgA_-75.762943_45.283033_0_60.27.jpg 480,344,525,462,0
+/content/objectDetectionKeras/data/VOC/JPEGImages/W2WVTwjE2dyk12ql8WobEg_-75.748382_45.289985_0_58.16.jpg 785,409,815,560,0
+/content/objectDetectionKeras/data/VOC/JPEGImages/3svy95IDpsayp8gw3ZYFEA_-75.772132_45.356706_0_249.94.jpg 509,409,526,511,0
+/content/objectDetectionKeras/data/VOC/JPEGImages/vZahVJtJcclrvpJQj9X_cw_-75.764286_45.283201_0_240.34.jpg 356,370,421,514,0 942,361,994,452,0
+/content/objectDetectionKeras/data/VOC/JPEGImages/3VzPnFKt78NeywmUvZvzPg_-75.764344_45.281885_0_39.37.jpg 511,338,536,463,0
+/content/objectDetectionKeras/data/VOC/JPEGImages/1O0OVU4wH9w2Yk4ZfbLa5A_-75.761607_45.284322_0_240.88.jpg 355,399,381,458,0 968,402,1002,483,0
+/content/objectDetectionKeras/data/VOC/JPEGImages/soa-Oc-mnPT-LRFtgVifJw_-75.744658_45.292551_0_331.66.jpg 539,354,567,451,0
+/content/objectDetectionKeras/data/VOC/JPEGImages/sjEm0jhijtmtGlngKGP17A_-75.762885_45.284412_0_64.32.jpg 687,365,712,463,0
+/content/objectDetectionKeras/data/VOC/JPEGImages/iZ8h-794krQHqFdtiteOfw_-75.731683_45.357966_0_152.14.jpg 382,383,412,487,0 596,362,642,467,0
+/content/objectDetectionKeras/data/VOC/JPEGImages/lFTU7qlo_tUSv3NYYKsGYg_-75.725965_45.360016_0_120.47.jpg 745,404,777,475,0
+/content/objectDetectionKeras/data/VOC/JPEGImages/J8n-paAI7XKbREXhlGY9LA_-75.756509_45.283219_0_151.13.jpg 79,399,111,487,0 136,394,157,455,0
+/content/objectDetectionKeras/data/VOC/JPEGImages/9m_ubJw-YRn6q3VpPXLeew_-75.760695_45.28466_0_239.31.jpg 459,268,496,481,0 992,402,1015,475,0
+/content/objectDetectionKeras/data/VOC/JPEGImages/6NrVyTeulEIMF1fxGgRsvg_-75.732457_45.287236_0_134.27.jpg 512,400,529,470,0 223,384,242,452,0
+/content/objectDetectionKeras/data/VOC/JPEGImages/Z2LTzxbD7HP93EAfnXRvrQ_-75.764833_45.282408_0_239.80.jpg 602,263,645,494,0
+/content/objectDetectionKeras/data/VOC/JPEGImages/02f8n3g1NhJD1lbegwMvew_-75.745107_45.292378_0_152.16.jpg 625,254,668,499,0
+/content/objectDetectionKeras/data/VOC/JPEGImages/AypXd5vkruvwUhbBoi5YIw_-75.752264_45.286901_0_155.47.jpg 605,358,630,488,0
